@@ -16,3 +16,5 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+gti clone https://github.com/Warm-rain/giwifi.git package/lean/giwifi
+gti clone https://github.com/hyrathb/mentohust.git package/lean/mentohust
